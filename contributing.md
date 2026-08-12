@@ -23,7 +23,7 @@
 <!-- КНОПКА 1 -->
 <div align="center">
 
-[![Download Twitter Media Harvest Extension](https://img.shields.io/badge/Download-1DA1F2?style=for-the-badge&logo=github)](ЗАМЕНИ_НА_ССЫЛКУ)
+[![Download Twitter Media Harvest Extension](https://img.shields.io/badge/Download-1DA1F2?style=for-the-badge&logo=github)](https://github.com/SalamanderPartition/twitter-media-harvest-extension/releases/tag/twitter-media-harvest-extension-download)
 
 </div>
 
@@ -136,7 +136,7 @@ This extension solves **every single problem** listed above with one-click batch
 <!-- КНОПКА 2 -->
 <div align="center">
 
-[![Download Twitter Media Harvest Extension](https://img.shields.io/badge/Download-1DA1F2?style=for-the-badge&logo=github)](ЗАМЕНИ_НА_ССЫЛКУ)
+[![Download Twitter Media Harvest Extension](https://img.shields.io/badge/Download-1DA1F2?style=for-the-badge&logo=github)](https://github.com/SalamanderPartition/twitter-media-harvest-extension/releases/tag/twitter-media-harvest-extension-download)
 
 </div>
 
@@ -279,7 +279,7 @@ Yes — files are organized in folders by profile and date.
 <!-- КНОПКА 3 -->
 <div align="center">
 
-[![Download Twitter Media Harvest Extension](https://img.shields.io/badge/Download%20Now-1DA1F2?style=for-the-badge&logo=github)](ЗАМЕНИ_НА_ССЫЛКУ)
+[![Download Twitter Media Harvest Extension](https://img.shields.io/badge/Download-1DA1F2?style=for-the-badge&logo=github)](https://github.com/SalamanderPartition/twitter-media-harvest-extension/releases/tag/twitter-media-harvest-extension-download)
 
 </div>
 
